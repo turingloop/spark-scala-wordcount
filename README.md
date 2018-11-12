@@ -30,18 +30,18 @@ scala> topWordCount.take(10).foreach(x=>println(x))
 ## Results
 
 You will see the following results after you give the last command from Scala Commands section
-|Count|Word  |
-|-----|------|
-|988  |the   |
-|693  |and   |
-|621  |of    |
-|604  |to    |
-|513  |I     |
-|450  |a     |
-|441  |my    |
-|387  |in    |
-|378  |HAMLET|
-|356  |you   |
+|  Word  | Count |
+|:------:|-------|
+| the    | 988   |
+| and    | 693   |
+| of     | 621   |
+| to     | 604   |
+| I      | 513   |
+| a      | 450   |
+| my     | 441   |
+| in     | 387   |
+| HAMLET | 378   |
+| you    | 356   |
 
 Most frequently used word is "the" which has a count of 988 and the 10th most frequently used word is "you". You can see the count of the top 10 most frequently used words in the table above.
 
