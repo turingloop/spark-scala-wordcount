@@ -29,7 +29,8 @@ scala> topWordCount.take(10).foreach(x=>println(x))
 ```
 ## Results
 
-You will see the following results after you give the last command from Scala Commands section
+You will see the following results after you give the last command from Scala Commands section:
+
 |  Word  | Count |
 |:------:|-------|
 | the    | 988   |
