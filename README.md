@@ -1,6 +1,3 @@
-# Goutham Spark Wordcount Project
-
-## Mapreduce
 
 I am doing a simple mapreduce operation on Shakespeare Hamlet using scala.
 
