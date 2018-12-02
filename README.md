@@ -1,9 +1,5 @@
 # Goutham Spark Wordcount Project
 
-## Mapreduce
-
-I am doing a simple mapreduce operation on Shakespeare Hamlet using scala.
-
 ## Links
 - [Webpage](https://turingloop.github.io/spark-scala-wordcount)
 - [Source](https://github.com/turingloop/spark-scala-wordcount)
